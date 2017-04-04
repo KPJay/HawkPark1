@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">HawkPark1</string>
+    <string name="btn_exit">Button closes activity</string>
+    <string name="tag_line">Your Campus Parking Valet!</string>
+    <string name="logo_large">Logo Large</string>
+    <string name="tv_email">Email id:</string>
+    <string name="tv_first_name">First Name:</string>
+    <string name="tv_last_name">Last Name:</string>
+    <string name="tv_password">Password:</string>
+    <string name="tv_confirm_password">Confirm Password:</string>
+    <string name="et_email_hint">Enter your gmail id.</string>
+    <string name="et_first_name_hint">Enter your first name.</string>
+    <string name="et_last_name_hint">Enter your last name.</string>
+    <string name="et_password_hint">Enter your password.</string>
+    <string name="et_con_password_hint">Enter your password again.</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="header_registration">REGISTRATION</string>
+    <string name="header_forgot_password">FORGOT PASSWORD</string>
+    <string name="logo_login">Logo large</string>
+    <string name="btn_ride2park">Apply for ride2park</string>
+    <string name="btn_sign_up">Sign-up</string>
+
+
 </resources>
